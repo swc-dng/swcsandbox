@@ -55,7 +55,7 @@ Shadowbox.init();
 
 <body <?php body_class(); ?>>
   
-  <!-- GA Tag Mgr-->
+  <!-- GA Tag Mgr 
   <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVCS8T"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -63,9 +63,9 @@ Shadowbox.init();
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-NVCS8T');</script>
-  <!-- / GA Tag Mgr -->
+/ GA Tag Mgr -->
   
-<!-- Sales Fusion -->
+<!-- Sales Fusion 
   <script type="text/javascript">
   __sf_config = {
   customer_id: 95714,
@@ -106,7 +106,7 @@ Shadowbox.init();
   }
   })();
   </script>
-  <!-- END SALESFUSION -->
+END SALESFUSION -->
   
                  
 <?php responsive_container(); // before container hook ?>
