@@ -1,0 +1,1230 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Quick Featured Images"
+msgstr ""
+
+#. Short description.
+msgid "Your time-saving Swiss Army Knife for featured images: Set, replace and delete them in bulk, set default images, get overview lists."
+msgstr ""
+
+#. Screenshot description.
+msgid "The first screen of Quick Featured Images: select an image and an action."
+msgstr ""
+
+#. Screenshot description.
+msgid "The second screen: select a filter to narrow down to posts and pages you want to modify with the image. Alternatively you can drop filtering and jump to Screen 4 directly."
+msgstr ""
+
+#. Screenshot description.
+msgid "The third screen: refine the filters."
+msgstr ""
+
+#. Screenshot description.
+msgid "The fourth screen: take a preview. If the filtering does not correspond to your expectations you can refine the filters again under the list on this page."
+msgstr ""
+
+#. Screenshot description.
+msgid "The fifth screen: take an overview of the success of the action."
+msgstr ""
+
+#. Screenshot description.
+msgid "The sixth screen: take an look on the extra column (marked red) for assigned featured images."
+msgstr ""
+
+#. Screenshot description.
+msgid "The seventh and last screen: take an overview of your rules for future default featured images."
+msgstr ""
+
+#. Found in description header.
+msgid "Manage featured images quickly"
+msgstr ""
+
+#. Found in description header.
+msgid "What users said"
+msgstr ""
+
+#. Found in description header.
+msgid "Access"
+msgstr ""
+
+#. Found in description header.
+msgid "Set, replace, remove: Actions"
+msgstr ""
+
+#. Found in description header.
+msgid "Set, replace, remove: Options"
+msgstr ""
+
+#. Found in description header.
+msgid "Set, replace, remove: Filters"
+msgstr ""
+
+#. Found in description header.
+msgid "Automatic Default Featured Images: Rules"
+msgstr ""
+
+#. Found in description header.
+msgid "Automatic Default Featured Images: Options"
+msgstr ""
+
+#. Found in description header.
+msgid "Additional sortable image column in posts lists"
+msgstr ""
+
+#. Found in description header.
+msgid "Languages"
+msgstr ""
+
+#. Found in description header.
+msgid "Your idea to improve the plugin is welcome"
+msgstr ""
+
+#. Found in description header.
+msgid "Support"
+msgstr ""
+
+#. Found in description header.
+msgid "No warranty and liability!"
+msgstr ""
+
+#. Found in description list item.
+msgid "It <strong>sets, replaces and removes featured images for hundreds of posts and pages in one go</strong>. You can run it over all contents or let it work only to desired contents by using flexible filters."
+msgstr ""
+
+#. Found in description list item.
+msgid "It displays assigned features images in an <strong>additional sortable image column in lists of posts, pages and custom post types</strong> if they support thumbnails. So you get a quick overview about used thumbnails of all posts and pages."
+msgstr ""
+
+#. Found in description list item.
+msgid "It enables you to <strong>define presets for automatic default featured images</strong> for future posts as many as you need. You can set <strong>accurate rules based on post properties</strong>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"Brilliantly conceived time-saving plugin\"</strong> by Christopher Greenhough on February 3, 2015"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Number 3</strong> in <a href=\"http://www.bestwordpresshosting.org/8-must-image-plugins-wordpress/\">8 Must have Image Plugins for WordPress</a> by Sadia KOmal on unknown date"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"You can tell that a lot of hard work went into this high quality plugin.\"</strong> by dfitek on December 8, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"The Best Plugin I ever saw - I would like to rate it 10/5\"</strong> by MovieMagia on November 25, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Number 2</strong> in <a href=\"http://webtalis.nl/top-5-wordpress-plugins-van-de-maand-september/\">Top 5 WordPress plugins van de maand september</a> by Webtalis on September 5, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"Literally 5 minutes changed over 300 posts! Brilliant!!!!\"</strong> by Bob on September 4, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"It's a life saver ... and is ridiculously fast!\"</strong> by Orlof on August 26, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"Finally! It's about time somebody got it right!\"</strong> by yallways on August 3, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"Sooo damn convenient!\"</strong> by Benbodhi on July 2, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>\"You've saved me a lot of time!\"</strong> by Celebrianne on May 31, 2014"
+msgstr ""
+
+#. Found in description list item.
+msgid "You will find the plugin under the own <strong>menu item 'Featured Images'</strong> "
+msgstr ""
+
+#. Found in description list item.
+msgid "You can select an image in the media library with the <strong>action link 'Bulk set as featured image'</strong>. Click on it and you can go on with the plugin."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Adding featured images:</strong> You can select an image to set it as the new featured image to hundreds of posts in one go. You can select multiple images to set them randomly as featured images."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Exchanging featured images:</strong> You can replace or update several existing featured images with a selected image in one go."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Deleting featured images:</strong> You can remove a selected featured image or all existing featured images in one go."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>overwrite existing featured images</strong> or <strong>keeping them unchanged</strong>. The latter setting is the default."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>consider only posts without a featured image</strong>. This will hide posts with featured images in the results list and will speed up the process."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>the first post image</strong> if available in the media library"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>the first post image from the current site domain</strong>, copy and add it to the media library if not available there"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>the first external post image</strong>, download it and add it to the media library"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>the first attached image of a post</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>the first image of a WordPress standard gallery</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>the first image of a NextGen Gallery</strong>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Use each selected image only once</strong>. If there are more posts than selected images the remaining posts will not be changed."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Remove excess featured images</strong> after all selected images are used."
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>post type</strong>: Search by post types. By <strong>default all</strong> posts, pages and custom post types will be affected"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>category</strong>: Search posts by category"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>tag</strong>: Search posts by tag"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>format</strong>: Search by post format"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>author</strong>: Search by author"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>custom taxonomy</strong>: Search by terms of registered taxonomies of a plugin or a theme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>featured image size</strong>: Search for small featured images below a given size"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>multimedia type</strong>: Search for audio and video files"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>search</strong>: Search by search term: Search in post title and post content or in post title only"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>status</strong>: Search by several statuses (published, draft, private etc.). By <strong>default all</strong> statuses will be affected"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>time</strong>: Search by time specifications"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter by <strong>parent page</strong>: Search child pages by parent page"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>first content image</strong> if available in the media library"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>custom taxonomy</strong> supporting featured images"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>post tag</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>post category</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>post author</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>post types</strong>: 'Post', 'Page' and <strong>custom post types</strong> supporting featured images"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>first content image</strong> if available on an external server"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>post format</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>search string in post title</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>overwriting existing featured images</strong> or "
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>keeping them unchanged</strong>. "
+msgstr ""
+
+#. Found in description list item.
+msgid "English"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (Español), kindly drawn up by Andrew Kurtis from <a href=\"http://www.webhostinghub.com/\">www.webhostinghub.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Arabic (العربية), kindly drawn up by <a href=\"https://wordpress.org/support/profile/salzard\">Shadi AlZard</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "German (Deutsch)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The plugin is available in English, Spanish (Español), Arabic (العربية) and German (Deutsch)."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The plugin 'Quick Featured Images' helps you bulk managing featured images, setting automatic default featured images to save your time."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You get the free version here. If you want to include <strong>audios, videos and custom post types</strong> and get more options then take a look the <strong>premium version</strong> <a href=\"http://www.quickfeaturedimages.com/\">Quick Featured Images Pro</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "See more comments under <a href=\"http://wordpress.org/support/view/plugin-reviews/quick-featured-images\">Reviews</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With Quick Featured Images you can apply time-saving tasks with many featured images: add, exchange and delete them in bulk."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to <strong>set the first content image as featured</strong> then take a look the <strong>premium version</strong> <a href=\"http://www.quickfeaturedimages.com/\">Quick Featured Images Pro</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Based on your selected action you can toggle on and off some options:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to use the option to <strong>remove the first image in the content</strong> then take a look the <strong>premium version</strong> <a href=\"http://www.quickfeaturedimages.com/\">Quick Featured Images Pro</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <strong>premium version</strong> offers you several approaches for <strong>setting the first image as featured</strong> additionally:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <strong>premium version</strong> offers you two more options if you selected multiple images to set them as featured images in random order:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to use these options then take a look the <strong>premium version</strong> <a href=\"http://www.quickfeaturedimages.com/\">Quick Featured Images Pro</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If there would be no filters Quick Featured Images would affect all posts and pages without exception! In most cases this is not desired."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The implemented filters allow you to narrow down the action to only the posts and pages you want to modify. The built-in filters are:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <strong>premium version</strong> offers you additionally:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to use these filters then take a look the <strong>premium version</strong> <a href=\"http://www.quickfeaturedimages.com/\">Quick Featured Images Pro</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>You can set rules for default featured images of posts easily.</strong> Every time you insert a new post or save an existing post Quick Featured Images will look for a rule to add and to change the preset featured image to the saved post."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can define the rules based on"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The rules are easy to set: choose an image, a taxonomy, a value and save the settings. That's it. <strong>You do not need to code.</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can add, change and delete every rule whenever you want. So you get an <strong>unlimited and precise set of rules</strong> for automatic default featured images in your website."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "After an image is removed from the library all preset rules assigned with that image will be removed automatically."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can switch between"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The latter setting is the default. The option is used every time a post is saved."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Quick Featured Images adds a new column called 'Featured Image' in posts lists. The additional column shows the currently assigned featured image of each post and is sortable by the image ID."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If the current user is allowed to edit images each displayed image in the column is linked to the edit page of the image."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With that column you can get a <strong>quick overview about all used images</strong>. You can also see posts with no featured image at a glance."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Under <strong>'Featured Images'</strong> &gt; <strong>'Image Columns'</strong> you can switch on and off the additional image column for every single post type, even custom post types if they support thumbnails."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The user interface is available in"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Further translations are welcome. If you want to give in your translation please leave a notice in the <a href=\"https://wordpress.org/support/plugin/quick-featured-images\">plugin's support forum</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you have any new idea for this plugin post your questions and ideas in the <a href=\"http://wordpress.org/support/plugin/quick-featured-images\">support forum at wordpress.org</a>. I will try to take a look and answer as soon as possible."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Support for this plugin will be provided in the form of Product Support. This means that I intend to fix any confirmed bugs, listen to ideas for this plugin and improve the user experience when enhancements are identified and can reasonably be accomodated."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "There is no User Support provided for this plugin. If you are having trouble with this plugin in your particular installation of WordPress, I will not be able to help you troubleshoot the problem."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Notice: This plugin has no Undo function!</strong> This plugin is provided under the terms of the GPL, including the following:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. <strong>THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</strong> SHOULD THE PROGRAM PROVE DEFECTIVE, <strong>YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION</strong>."
+msgstr ""
+
+#. Found in installation header.
+msgid "Using The WordPress Dashboard"
+msgstr ""
+
+#. Found in installation header.
+msgid "Uploading in WordPress Dashboard"
+msgstr ""
+
+#. Found in installation header.
+msgid "Using FTP"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to the 'Add New' in the plugins dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for 'Quick Featured Images'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click 'Install Now'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin on the Plugin dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to 'Featured Images'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to the 'Upload' area"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select <code>quick-featured-images.zip</code> from your computer"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin in the Plugin dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download <code>quick-featured-images.zip</code>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Extract the <code>quick-featured-images</code> directory to your computer"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>quick-featured-images</code> directory to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Preset Images': After an image is removed from the library all preset rules assigned with that image will be removed automatically"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Preset Images': Wrong background color for third table row"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Preset Images': Missing translations for changed texts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactoring in 'Preset Images'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated *.pot file and translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added arabic translation. Thank you, <a href=\"https://wordpress.org/support/profile/salzard\">Shadi AlZard</a>!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Set, replace, remove': Back button on result page. So you can start a further run faster"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version; Added in 'Preset Featured Images': post format as taxonomy"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed table row colors due to changes in WP 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Redesigned in 'Preset Images': Moved checkboxes to middle column"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised styles for page descriptions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed text domain for translate.wordpress.org"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised styles for image column in small displays, since WP 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added search in post title in 'Presets': set default featured image for posts with a specific search string in the title"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested successfully with WordPress 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in image column: Link to the edit page of the displayed image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated screenshot"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': invalid thumbnail IDs will be ignored"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': Added missing 'break' in switch()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': Post Type Filter founded always posts and pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed broken bulk assign link at each image in the media library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove': Take the first post image from current site domain"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated *.pot file and german translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug which yielded the error message \"No matches found\" at the Confirmation step"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed wrong links in the Confirmation list if cache was used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved performance of confirmation step by using cached results of preview step"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved security by changing $_REQUEST to $_POST and $_GET"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove' for selection of multiple images: Use each selected only once"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove' for selection of multiple images: Remove excess featured images after all selected images are used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove': Remove first image in content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove': Take first image of NextGen galleries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove': Take first external image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium version: Added option in 'Set, replace, remove': Take first attached image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested successfully with WordPress 4.2.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Introducing <strong>premium version</strong> <a href=\"http://www.quickfeaturedimages.com/\">Quick Featured Images Pro</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deleted in 'Set, replace, remove': some filters and options in favor of the premium version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Corrected CSS height for images in image column to keep the aspect ratio"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Set, replace, remove': Option to find first image in WP galleries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Set, replace, remove': Informations about type and status of each post in preview list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': Only some assigned featured images were displayed; now all assigned images are displayed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': Hilited wrong step in process bar when user skips filters; now correct hilite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Image Columns': No more warning if no option was checked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slight design improvement on the post type filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved performance of preview list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adopted new core strings of WP 4.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested successfully with WP 4.1, especially the improved queries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Set, replace, remove': New filter 'Multimedia File Filter' for audio and video file types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Set, replace, remove': Option to ignore posts with featured images and consider only posts without any featured image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in posts lists: Featured Image columns in posts lists are now sortable by image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': If no post type was selected in the post type filter all posts were returned as result; now no posts are returned as expected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': If a post had no title the link to this post was missing in the result lists; now a link with default '(no title)' is displayed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Set, replace, remove': If an image and the action 'Add first post image' were selected the design on the following pages was destroyed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved performance in 'Set, replace, remove' for the result lists"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed sidebar content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed in 'Image Columns': bug which displayed undesired thumbnail columns. Please reset your image column settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested successfully with WordPress 4.0.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised headlines in start page of 'Set, replace, remove' for better comprehension"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in 'Preset Featured Images' which prevented to recognize the first content image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved algorithm for better detection of the id of the first content image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved SQL performance in 'Set, replace, delete'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved security by changing <code>(int)</code> to <code>absint()</code> for ID variables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed typo in german translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added rule at the presets to overwrite existing featured images or to keep them by default"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug at the presets where a rule based on a user could be ignored"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Successfully tested with WordPress 4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added icons for plugin search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed order of links for this plugin on plugin list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Preset Featured Images': author as taxonomy"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in 'Set, replace, remove' a help text for the case of a white blank page while treating thousands of posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved in 'Preset Featured Images': featured image is set when a new post is created, so the rules work with auto-posting / auto-blogging plugins (aggregators)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved uninstall routine"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested successfully with WordPress 3.9.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to use the first content image as featured image only if there is no featured image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed empty pulldown menu on 'Preset Featured Images' if values have apostrophes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PayPal button if WordPress locale value is not supported by PayPal"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved robustness and security of code for page 'Preset Featured Images'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Renamed sub menu page 'Settings' to 'Image Columns'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed illustration on page 'Image Columns'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated screenshots"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the functionality of auto set featured images for new posts based on user defined rules"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a sub menu page 'Preset Featured Images'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated menu page 'Overview'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved menu item near menu item 'Media'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested JavaScript in Opera, Firefox, Chrome and Internet Explorer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed wrong behaviour on Customize page if both image selection buttons were clicked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed HTML content section of custom taxonomies filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated uninstall file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added screenshot of page 'Preset Featured Images'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a top level menu item 'Featured Images'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a sub menu page 'Overview'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a sub menu page 'Settings'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a sub menu page 'Customize', moved the former menu link 'Media' - 'Quick Featured Images' to there"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional image column in lists of posts for assigned featured images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional image column in lists of pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional image column in lists of thumbnail supporting custom post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added options to switch each of the additional image columns on or off"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added uninstall file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Raised the lowest required WordPress version from 3.7 to 3.8 because of the use of dashicons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Significant refactoring"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed width of selected image on the plugin's start page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error message for too old WordPress version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested on localized WordPress installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added action: Set multiple selected images as featured images randomly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised layout of the plugin's start page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a notice to the image selection button for the case of not working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tiny text changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactoring for the image search function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Column in the preview list for the future featured image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Option whether to overwrite existing featured images or not"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: User selected filters and options in the information section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Setting no filters jumps directly to confirmation page instead of displaying an error message"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Search for first image in posts finds more images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Selected featured images which should be replaced are remembered if the user goes back to selection page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added action: Take the first image in a post as featured image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added link \"Bulk set as featured image\" under each image in the media library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed hard coded plugin name to variable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested with WordPress 3.9.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new filter \"Filter by Time Specifications\": Search in time periods on a year-month base"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved page speed at both the preview list and the result list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved style for smartphones"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added message after activation about the plugin's location in the backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added thumbnails of current assigned featured images both in the preview and the result lists"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Design adjustment for links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed useless listing of custom post types which do not support thumbnails"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed missing merge of post types and custom post types as default if post type filter was not selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the style to be based more on WP standard style"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed selection modus for images to be replaced from single to multiple"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed names of custom post types into their more readable labels"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed names of custom taxonomies into their more readable labels"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed notice for untouched posts from \"failed\" to \"unconsidered\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved notice of selected action to the right of the selected image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed broken search filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: error message after plugin activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: no images in the image library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: PHP error searching for posts in the backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deleted uninstall.php to avoid a confusing uninstall message"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new filter \"Filter by Custom Taxonomies\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed default post types: ALL posts, pages and custom post types are included in the search by default "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed default selection in drop down selection lists into \"nothing selected\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved performance"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved design of confirmation page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised SQL statement for featured image size filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed missing headline on confirmation page if action \"remove any image\" was selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new action \"Remove any image\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new filter \"Filter by Featured Image Size\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added error notice if no image of the image replacement list was selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed design of the plugin's start page. I hope you find it more useful"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved processing speed of found posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved security for input data and URLs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The plugin was released."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added spanish translation for the main texts of the plugin"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed bug on using custom taxonomies"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed an insufficient security check which prevented to set a featured image"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I set a default featured image for existing posts?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I set a default featured image for future posts?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Who can see Quick Featured Images in the WordPress backend?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does the plugin work in a WordPress Multisite installation?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will I lose all the featured images if I will delete the plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why does the plugin say \"No matches found\" after confirmation?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why are there sometimes strange search results with custom taxonomies?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where is the *.pot file for translating the plugin in any language?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Under 'Set, replace, delete' <strong>remove</strong> all undesired featured images if there are some. If desired remove the images using the option 'Overwrite existing featured images'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Then choose the desired image and <strong>set</strong> it to the posts <strong>without the option 'Overwrite existing featured images'</strong>. This will set the image to all posts without a featured image."
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the image"
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the taxonomy 'Category' and"
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the value 'Lorem ipsum'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "save the settings."
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the taxonomy 'Post Type' and"
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the value 'Post'"
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the taxonomy 'Event Category' and"
+msgstr ""
+
+#. Found in faq list item.
+msgid "choose the value 'Concert'."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For that use the plugin twice:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>Or: I want image X as default featured image if the post has category Y. How to set this?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Look at some examples:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "All users who have the right to <strong>edit others posts</strong> have the access to Quick Featured Images. As long as the user roles are untouched after a fresh standard WordPress installation both <strong>Administrators</strong> and <strong>Editors</strong> can use this plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For these users the menu item 'Featured Images' with its sub pages appears in the WordPress backend. All other users will not see this menu item or will get an error message if they would request a Quick Featured Images page via a direct link."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. It works either activated for all sites (network wide) or activated in each single site. It changes only the posts of the site where you use it."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No. The featured images you have already set will remain set if you deactivate or delete the plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This could be the case if the images were not uploaded via WordPress' own media uploader. If you have uploaded images via FTP or other ways the plugin can not find images."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "It does not matter where the images are stored on your server. They can be in any folder. But they have to be uploaded via WordPress' own media uploader to be found by this plugin. If this is the case the plugin will work fine."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The search for custom taxonomy terms could lead to surprising results. The reason is custom taxonomies can be used in many different ways. It is not possible to catch them all in one single code expression. If you should be unsatisfied with the result try other filters to get the result you want."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you want to contribute a translation of the plugin in your language it would be great! You would find the *.pot file in the 'languages' directory of this plugin. If you would send the *.po file to me I would include it in the next release of the plugin."
+msgstr ""

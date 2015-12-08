@@ -1,0 +1,447 @@
+$backgroundcolor: 				#0a0a0a;
+$backgroundopacity: 			0.75;
+$manualpadding:						0px;
+
+$changebgcolor: 					#fff;
+$changebgopacity: 				0.3;
+$containerwidth: 					;
+$containerheight: 				70px;
+$logoheight: 							30px;
+$borderradius: 						0px;
+$menubordertop: 					0;
+$menuborderrgt: 					0;
+$menuborderbtm: 					0;
+$menuborderlft: 					0;
+$menuborderclr: 					#d3d3d3;
+$breakpoint: 							990px;
+
+$levelonecolor: 					#ffffff;
+$levelonecolorhover: 			#f3901d;
+$levelonecoloractive: 		#ffffff;	
+
+$dropbordertop: 					0;
+$dropborderrgt: 					0;
+$dropborderbtm: 					0;
+$dropborderlft: 					0;
+$dropborderclr: 					#E2E2E2;
+$dropborderradius: 				4px;
+
+$leveltwocolor: 					#ffffff;
+$leveltwocolorhover: 			#f3901d;
+$leveltwocoloractive: 		#ffffff;
+
+$levelonefont: 						Lato;
+$levelonefontstyle: 			400;
+$levelonetexttrans:  			uppercase;
+$leveloneletterspacing:  	0px;
+$levelonefontsize:  			15px;
+$levelonefontlineheight:  20px;
+
+$newlevelonecolor: 				#9B9898;
+$newlevelonecolorhover: 	#ef4646;
+$newlevelonecoloractive: 	#ef4646;	
+$newleveltwocolor: 				#9B9898;
+$newleveltwocolorhover: 	#ef4646;
+$newleveltwocoloractive: 	#ef4646;
+
+$leveltwofont: 						Lato;
+$leveltwofontstyle:  			400;
+$leveltwofontsize:  			13px;
+$leveltwotexttrans:  			capitalize;
+$leveltwoletterspacing:  	0px;
+$leveltwofontlineheight: 	16px;
+
+$dropdownbackground : 		#272727;
+$dropdownbgopacity : 			1.0;
+
+$newdropdownbackground : 	#fff;
+$newdropdownbgopacity : 	1.0;
+
+$supersidebgcolor: 				#1b1b1b;
+$supersidebgopacity: 			1.0;
+
+$supersidebodyoverlay : 	#fff;
+$supersidebodyoverlayop : 0.8;
+
+$supersidefont: 					Source Sans Pro;
+$supersidefontstyle: 			600;
+$supersidetexttrans:  		uppercase;
+$supersideletterspacing:  2px;
+$supersidefontsize:  			12px;
+$supersidefontlineheight: 24px;
+
+$supersidecolor: 					#666666;
+$supersidecolorhover: 		#ffffff;
+$supersidecoloractive: 		#ffffff;	
+
+$menuanimdelay :					0.0s;
+$menuanimduration : 			1.0s;
+$logoanimdelay :					0.4s;
+$logoanimduration : 			1.0s;
+$mitemsanimduration : 		1.0s;
+$mitemsanimdelay: 				0.7s;
+$ddanimduration : 				0.5s;
+$ddanimdelay: 						0.0s;
+
+$searchformbgcolor: 				#000;
+$searchformbgopacity: 			0.6;
+
+$mobilebp :								"(max-width: #{$breakpoint})"
+$deskbp :								"(min-width: #{$breakpoint})"
+body {
+	padding-top: $manualpadding
+}
+
+.supermenu {
+	min-height: $containerheight + px;
+	border-width: $menubordertop $menuborderrgt $menuborderbtm $menuborderlft;
+	border-color: $menuborderclr;
+	border-radius: $borderradius;
+	background: rgba($backgroundcolor, $backgroundopacity);
+}
+
+.supermenu.change-color {
+	background: rgba($changebgcolor, $changebgopacity) !important;
+}
+.supermenu .container {
+	width: $containerwidth + px;
+	max-width: 100%;
+}
+.supermenu.is-hidden {
+	transform: translateY(-$containerheight + px);
+}
+.superside {
+	background: rgba($supersidebgcolor, $supersidebgopacity);
+}
+.superside-in-topmenu-clone{
+	display: none;
+	
+}
+
+.sm-navbar-header {
+	min-height: $containerheight + px;
+}
+@media #{$mobilebp} {
+	.supermenu .sm-navbar-header {
+		position: relative;
+	}
+	.supermenu .smdropdown-menu {
+		padding: 0;
+	}
+	.supermenu .sm-nav>li>a {
+		line-height: 2 !important;
+	}
+	.supermenu .sm-nav>li>a>i {
+		line-height: 2 !important;
+		margin-left: 15px;
+	}
+	.supermenu .sm-nav>li {
+		clear: both;
+	}
+	.superside-in-topmenu-clone {
+		display: block;
+		float: right;
+		z-index: 99;	
+		position: relative;
+		padding: 0 5px;
+	}
+}
+.sm-navbar-brand img {
+	max-height: $logoheight;
+}
+.supermenu .sm-navbar-toggle, 
+.superside-in-topmenu-clone {
+	margin-top: ($containerheight - 36) / 2 + px;
+}
+.supermenu.style_2 .sm-navbar-toggle, 
+.supermenu.style_2 .superside-in-topmenu-clone {
+	margin-top: $containerheight + px;
+}
+.sm-nav>li {
+	padding-top: ($containerheight - ($levelonefontsize + 10px)) / 2;
+	padding-bottom: ($containerheight - ($levelonefontsize + 10px)) / 2;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+}
+.sm-nav>li>a {
+	color: $levelonecolor;
+	font-family: $levelonefont;
+	font-weight: $levelonefontstyle;
+	font-size: $levelonefontsize;
+	line-height: 1;
+	letter-spacing: $leveloneletterspacing;
+	text-transform: $levelonetexttrans;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+}
+.sm-nav>li.active>a,
+.sm-nav>li.active>a:hover,
+.sm-nav>li.active>a:focus {
+	color: $levelonecoloractive;
+}
+.sm-nav>li>a:hover, 
+.sm-nav>li>a:focus{
+	color: $levelonecolorhover;
+}
+.supermenu li.has-icon i {
+	font-size: $levelonefontsize * 1.5;
+}
+.supermenu .sm-effect-8>li {
+	padding-top: ($containerheight - ($levelonefontsize + 20px)) / 2;
+	padding-bottom: ($containerheight - ($levelonefontsize + 20px)) / 2;
+}
+.change-color .sm-nav>li>a {
+	color: $newlevelonecolor;
+}
+.change-color .sm-nav>li.active>a,
+.change-color .sm-nav>li.active>a:hover,
+.change-color .sm-nav>li.active>a:focus {
+	color: $newlevelonecoloractive;
+}
+.change-color .sm-nav>li.active>a,
+.change-color .sm-nav>li.active>a:hover,
+.change-color .sm-nav>li.active>a:focus {
+	color: $newlevelonecoloractive;
+}
+.smdropdown-menu {
+	background-color: rgba($dropdownbackground, $dropdownbgopacity);
+	border-width: $dropbordertop $dropborderrgt $dropborderbtm $dropborderlft;
+	border-color: $dropborderclr;
+	border-radius: $dropborderradius;
+}
+.change-color .smdropdown-menu {
+	background-color: rgba($newdropdownbackground, $newdropdownbgopacity);
+}
+.smdropdown-menu>li>a {
+	color: $leveltwocolor;
+	font-family: $leveltwofont;
+	font-weight: $leveltwofontstyle;
+	font-size: $leveltwofontsize;
+	line-height: $leveltwofontlineheight;
+	letter-spacing: $leveltwoletterspacing;
+	text-transform: $leveltwotexttrans;
+}
+.smdropdown-menu>li.active>a,
+.smdropdown-menu>.active>a, 
+.smdropdown-menu>.active>a:hover, 
+.smdropdown-menu>.active>a:focus {
+	color: $leveltwocoloractive;
+}
+.smdropdown-menu>li>a:hover, 
+.smdropdown-menu>li>a:focus {
+	color: $leveltwocolorhover;
+}
+.change-color .smdropdown-menu>li>a {
+	color: $newleveltwocolor;
+}
+.change-color .smdropdown-menu>li.active>a,
+.change-color .smdropdown-menu>.active>a, 
+.change-color .smdropdown-menu>.active>a:hover, 
+.change-color .smdropdown-menu>.active>a:focus {
+	color: $newleveltwocoloractive;
+}
+.change-color .smdropdown-menu>li>a:hover, 
+.change-color .smdropdown-menu>li>a:focus {
+	color: $newleveltwocolorhover;
+}
+.supermenu.animated {
+	-webkit-animation-delay: $menuanimdelay
+	animation-delay: $menuanimdelay
+	-webkit-animation-duration: $menuanimduration
+	animation-duration: $menuanimduration
+}
+.logo-img.animated {
+	-webkit-animation-delay: $logoanimdelay
+	animation-delay: $logoanimdelay
+	-webkit-animation-duration: $logoanimduration
+	animation-duration: $logoanimduration
+}
+.sm-nav.animated {
+	-webkit-animation-delay: $mitemsanimdelay
+	animation-delay: $mitemsanimdelay
+	-webkit-animation-duration: $mitemsanimduration
+	animation-duration: $mitemsanimduration
+}
+.smdropdown-menu.animated {
+	-webkit-animation-delay: $ddanimdelay
+	animation-delay: $ddanimdelay
+	-webkit-animation-duration: $ddanimduration
+	animation-duration: $ddanimduration
+}
+@media #{$deskbp} {
+	.supermenu.smdropdown-on-hover .smdropdown:hover>.smdropdown-menu {
+		display: block;
+	}
+	.supermenu.change-size {
+		min-height: 40px !important;
+		max-height: 40px !important;
+	} 
+}
+
+@media #{$mobilebp} {
+	.sm-navbar-header {
+		float: none;
+	}
+	.navbar-left,.navbar-right {
+		float: none !important;
+	}
+	.sm-navbar-brand img {
+		left: 0;
+		right: 0;
+	}
+	body.superside-open .supermenu .sm-navbar-brand img {
+		max-width: 50%;
+	}
+	.sm-navbar-toggle {
+		display: block;
+	}
+	.sm-navbar-collapse {
+		border-top: 1px solid transparent;
+		box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+	}
+	.sm-navbar-fixed-top {
+		top: 0;
+		border-width: 0 0 1px;
+	}
+	.sm-navbar-collapse.collapse {
+		display: none!important;
+	}
+	.sm-navbar-nav {
+		float: none!important;
+		margin-top: 7.5px;
+	}
+	.sm-navbar-nav>li {
+		float: none;
+	}
+	.sm-nav>li {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.sm-navbar-nav>li>a {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.collapse.in{
+		display:block !important;
+	}
+	.supermenu .sm-nav {
+		margin: 0;
+	}
+	.sm-navbar-nav .open .smdropdown-menu {
+		position: static;
+		float: none;
+		width: auto;
+		margin-top: 0;
+		background-color: transparent;
+		border: 0;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+	.supermenu li.megamenu li {
+		width: 100%;
+		float:left;
+	}
+	.supermenu li.superside-in-topmenu {
+		display: none;
+	}
+	.supermenu .smdropdown-menu a {
+		color:#333;
+	}
+	.sm-navbar-collapse {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.supermenu .sm-nav.animated {
+		-webkit-animation-delay: 0;
+		animation-delay: 0;
+	}
+}
+
+
+/*Superside*/
+.superside a {
+	color: $supersidecolor;
+	font-family: $supersidefont;
+	font-weight: $supersidefontstyle;
+	font-size: $supersidefontsize;
+	line-height: $supersidefontlineheight;
+	letter-spacing: $supersideletterspacing;
+	text-transform: $supersidetexttrans;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+}
+.superside a:hover {
+	color: $supersidecolorhover;
+}
+.superside li.current_page_item a {
+	color: $supersidecoloractive;
+}
+.superside .superside-social-icons .icon {
+	font-size: $supersidefontsize * 1.5;
+}
+body.superside-open:before 
+	background: rgba($supersidebodyoverlay, $supersidebodyoverlayop);
+.ss-copy 
+	color: $supersidecolor;
+	font-family: $supersidefont;
+	font-weight: $supersidefontstyle;
+	font-size: $supersidefontsize;
+	line-height: $supersidefontlineheight;
+	letter-spacing: $supersideletterspacing;
+
+/*Link Styles*/
+.supermenu .sm-effect-8 li.active a .menu-item-name::before,
+.supermenu .sm-effect-8 li.active a .menu-item-name::after {
+	border-color: $levelonecoloractive;
+	
+}
+.supermenu .sm-effect-8 li.active a .menu-item-name::after {
+	border-color: $levelonecoloractive;
+}
+.supermenu .sm-effect-8 li.active a .menu-item-name::before {
+	border-color: $levelonecoloractive;
+	opacity: 0.3;
+}
+.supermenu .sm-effect-21 a .menu-item-name::before,
+.supermenu .sm-effect-21 a .menu-item-name::after {
+	background: $levelonecolorhover;
+}
+.supermenu .sm-effect-21 li.active a .menu-item-name::before,
+.supermenu .sm-effect-21 li.active a .menu-item-name::after {
+	background: $levelonecoloractive;
+}
+
+/*Toggle Icons*/
+.topmenu-toggler {
+	top: ($containerheight + 10) + px;
+}
+.supermenu .lines, 
+.supermenu .lines:before, 
+.supermenu .lines:after {
+	background: $levelonecolor;
+}
+.supermenu li.superside-in-topmenu:hover .lines, 
+.supermenu li.superside-in-topmenu:hover .lines:before, 
+.supermenu li.superside-in-topmenu:hover .lines:after {
+	background: $levelonecolorhover;
+}
+.supermenu .lines, 
+.supermenu .lines:before, 
+.supermenu .lines:after, 
+.supermenu .lines-button.x.ssclose .lines:before, 
+.supermenu .lines-button.x.ssclose .lines:after {
+	width: $levelonefontsize * 2;
+	height: $levelonefontsize / 6;
+}
+.supermenu .lines:before{
+	bottom: $levelonefontsize / 2;
+	top: auto;
+}
+.supermenu .lines:after {
+	top: $levelonefontsize / 2;
+}
+
+/*Searchform Style*/
+#smsearch.open {
+	background: rgba($searchformbgcolor, $searchformbgopacity);
+}

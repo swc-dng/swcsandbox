@@ -1,0 +1,29 @@
+[Dec 8, 2015 16:24:59 -6-message] [] Starting cleanup procedure for BackupBuddy v6.4.0.8.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up old logs.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any temporary local destinations.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up remote send stats.
+[Dec 8, 2015 16:24:59 -6-details] [] Backup directory invalid. Updating from `/var/www/vhosts/swcsandbox.com/httpdocs/wp-content/uploads/backupbuddy_backups/` to default.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up old backup fileoptions option files.
+[Dec 8, 2015 16:24:59 -6-details] [] Removing .htaccess high security mode for backups directory. Normal mode .htaccess to be added next.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any importbuddy scripts in site root if it exists & is not very recent.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up importbuddy directory in site root if it exists & is not very recent.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any old temporary zip directories in: wp-content/uploads/backupbuddy_temp/. If no recent backups then the temp directory will also be purged.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up temporary files from individual file / directory restores in directory `/tmp/`...
+[Dec 8, 2015 16:24:59 -6-details] [] Individual file / directory restore cleanup complete.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any old temporary zip directories in backup directory temp location `/var/www/vhosts/swcsandbox.com/httpdocs/wp-content/uploads/backupbuddy_backups/temp_zip_XXXX/`.
+[Dec 8, 2015 16:24:59 -6-details] [] Periodic cleanup: Replacing notifications.
+[Dec 8, 2015 16:24:59 -6-message] [] Finished cleanup procedure.
+[Dec 8, 2015 16:24:59 -6-message] [] Starting cleanup procedure for BackupBuddy v6.4.0.8.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up old logs.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any temporary local destinations.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up remote send stats.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up old backup fileoptions option files.
+[Dec 8, 2015 16:24:59 -6-details] [] Removing .htaccess high security mode for backups directory. Normal mode .htaccess to be added next.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any importbuddy scripts in site root if it exists & is not very recent.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up importbuddy directory in site root if it exists & is not very recent.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any old temporary zip directories in: wp-content/uploads/backupbuddy_temp/. If no recent backups then the temp directory will also be purged.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up temporary files from individual file / directory restores in directory `/tmp/`...
+[Dec 8, 2015 16:24:59 -6-details] [] Individual file / directory restore cleanup complete.
+[Dec 8, 2015 16:24:59 -6-details] [] Cleaning up any old temporary zip directories in backup directory temp location `/var/www/vhosts/swcsandbox.com/httpdocs/wp-content/uploads/backupbuddy_backups/temp_zip_XXXX/`.
+[Dec 8, 2015 16:24:59 -6-details] [] Periodic cleanup: Replacing notifications.
+[Dec 8, 2015 16:24:59 -6-message] [] Finished cleanup procedure.
